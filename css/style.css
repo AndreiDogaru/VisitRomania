@@ -17,6 +17,16 @@ h4 {
     font-weight: 400;
     margin-bottom: 30px;
 }
+#unique img{
+    width: 450px;
+}
+#about img{
+    width: 400px;
+}
+#tours .panel-heading{
+    height: 140px;
+    padding-top: 20px;
+}
 .jumbotron {
     background-color: red;
     color: yellow;
